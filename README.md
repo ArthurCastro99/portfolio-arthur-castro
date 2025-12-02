@@ -10,7 +10,7 @@ Eu sou Arthur desenvolvedor Frontend meu [Currículo](https://drive.google.com/f
 
 ## Sobre o Projeto
 
-O objetivo deste projeto é mostrar as tecnologias que tenho conhecimento, além de mostrar projetos e exibir um pouco sobre mim. Ajustes de tamanhos de todas as telas desde desktop a mobile. Finalizando com uma seçao de contatos para entrar em contato com o desenvolvedor frontend caso tenha interesse. Funciona bem como um currículo demostrativo para avaliadores.
+O objetivo deste projeto é mostrar as tecnologias que tenho conhecimento, além de mostrar projetos e exibir um pouco sobre mim. Ajustes de tamanhos de todas as telas desde desktop a mobile. Finalizando com uma seçao de footer-contatos para entrar em contato com o desenvolvedor frontend caso tenha interesse. Funciona bem como um currículo demostrativo para avaliadores.
 
 ## Tecnologias Utilizadas
 
